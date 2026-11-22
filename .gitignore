@@ -1,0 +1,16 @@
+# Editors and local tooling
+.idea/
+.vscode/
+.claude/
+
+# Python virtual environments anywhere in the repo
+venv/
+.venv*/
+
+# Build caches
+*.tsbuildinfo
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
